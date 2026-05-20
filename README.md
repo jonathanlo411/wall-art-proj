@@ -7,3 +7,4 @@ This repository contains the full map mesh generated from [map2model](https://ma
 ## Notes
 
 - Since the output of the models contains many non-manifold edges and I have taken the liberty of repairing them.
+- Map scale is 1:9514
